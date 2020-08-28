@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Marek Seweryn",
+  "classifications": [ "Clean", "Library", "C#" ],
+  "identity": "clean-arch-persistance",
+  "name": "Clean-arch persistance project",
+  "shortName": "clean-arch-persistance",
+  "sourceName": "$projectname$",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Marek Seweryn",
+  "classifications": [ "Clean", "Library", "C#" ],
+  "identity": "clean-arch-presentation-rest-api",
+  "name": "Clean-arch presentation rest api project",
+  "shortName": "clean-arch-presentation-rest-api",
+  "sourceName": "$projectname$",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}

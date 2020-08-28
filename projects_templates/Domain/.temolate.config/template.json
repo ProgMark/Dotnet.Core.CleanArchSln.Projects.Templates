@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Marek Seweryn",
+  "classifications": [ "Clean", "Library", "C#" ],
+  "identity": "clean-arch-domain",
+  "name": "Clean-arch domain project",
+  "shortName": "clean-arch-domain",
+  "sourceName": "$projectname$",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
